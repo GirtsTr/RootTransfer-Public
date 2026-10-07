@@ -40,7 +40,9 @@ Your list of received files, the devices you know or blocked, and your settings 
 
 ## Terms of use
 
-RootTransfer is free to use, at home and at work. It is provided as it is, without any warranty; its maker isn't liable for damage from using it, as far as the law allows. You are responsible for what you send and what you accept. Only accept files you expect, from people you trust.
+RootTransfer is free to use, at home and at work. It is provided as it is, without any warranty; its maker isn't liable for damage from using it, as far as the law allows. Don't use RootTransfer for anything illegal. Never send files or notes that you have no right to share (for example other people's films, music or private photos), or that threaten, harass or exploit anyone. You alone are responsible for what you send: files go straight from your device to the other one, so the maker of RootTransfer can't see, stop or remove them.
+
+You are also responsible for what you accept. Only accept files you expect, from people you trust. If someone sends you something threatening or illegal, press “Block this sender”, keep what arrived and tell the police.
 
 RootTransfer is built with open-source software by many people. Their licences are in the app (Settings → Privacy, terms and licences) and attached to every release (`RootTransfer-…-open-source-licences.html`).
 
@@ -90,7 +92,9 @@ Saņemto failu saraksts, zināmās un bloķētās ierīces un jūsu iestatījumi
 
 ## Lietošanas noteikumi
 
-RootTransfer var lietot bez maksas, gan mājās, gan darbā. Tā tiek nodrošināta tāda, kāda tā ir, bez jebkādām garantijām; tās veidotājs neatbild par zaudējumiem, kas radušies to lietojot, ciktāl to atļauj likums. Jūs atbildat par to, ko sūtāt un ko pieņemat. Pieņemiet tikai tos failus, kurus gaidāt, no cilvēkiem, kuriem uzticaties.
+RootTransfer var lietot bez maksas, gan mājās, gan darbā. Tā tiek nodrošināta tāda, kāda tā ir, bez jebkādām garantijām; tās veidotājs neatbild par zaudējumiem, kas radušies to lietojot, ciktāl to atļauj likums. Neizmantojiet RootTransfer nekam nelikumīgam. Nekad nesūtiet failus vai piezīmes, kurus jums nav tiesību izplatīt (piemēram, citu cilvēku filmas, mūziku vai privātas fotogrāfijas), vai ar kuriem kādu apdraud, vajā vai izmanto. Par to, ko sūtāt, atbildat tikai jūs: faili iet tieši no jūsu ierīces uz otru, tāpēc RootTransfer veidotājs tos nevar redzēt, apturēt vai izdzēst.
+
+Jūs atbildat arī par to, ko pieņemat. Pieņemiet tikai tos failus, kurus gaidāt, no cilvēkiem, kuriem uzticaties. Ja kāds jums atsūta kaut ko draudošu vai nelikumīgu, nospiediet “Bloķēt šo sūtītāju”, saglabājiet saņemto un ziņojiet policijai.
 
 RootTransfer ir veidota, izmantojot daudzu cilvēku atvērtā koda programmatūru. Viņu licences ir lietotnē (Iestatījumi → Privātums, noteikumi un licences) un pievienotas katram laidienam (`RootTransfer-…-open-source-licences.html`).
 
